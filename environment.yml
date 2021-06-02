@@ -1,0 +1,25 @@
+name: reu_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - pandas
+  - xlrd
+  - xarray
+  - h5py
+  - netcdf4
+  - scikit-image
+  - scikit-learn
+  - dask
+  - requests
+  - matplotlib
+  - seaborn
+  - plotly
+  - ipython
+  - jupyterlab
+  - pytest
+  - pytest-cov
+  - pylint
+  - pip
